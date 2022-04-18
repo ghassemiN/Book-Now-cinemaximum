@@ -1,6 +1,6 @@
 # Book Now
 
-Be first one to book your fav movie ticket from cinemaximum.
+ Be the first to book a movie ticket at [cinemaximum](https://www.cinemaximum.com.tr) website. 
 
 ## Installation
 
